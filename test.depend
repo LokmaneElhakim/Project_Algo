@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1764673136 source:c:\users\pc\desktop\mini_projet_algo\test\main.c
+	<stdio.h>
+	<time.h>
+	<math.h>
+
